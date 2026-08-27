@@ -1,0 +1,10 @@
+name=input("Enter Employee Name :")
+role=input("Enter Employee role :")
+salary=input("Enter Employee salary :")
+
+print("\n=======================")
+print("    EMPLOYEE ID CARD    ")
+print("Name :",name)
+print("role :",role)
+print("salary :",salary)
+print("=========================")
